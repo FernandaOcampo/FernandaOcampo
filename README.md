@@ -33,14 +33,8 @@
 ### 🌷 Featured Projects
 
 🛒 **E-commerce Testing Project**  
-Manual and API testing for a simulated e-commerce platform.  
-Designed and documented test cases, validated endpoints in Postman, and reported bugs in Jira.  
-🔗 [View on GitHub](https://github.com/yourusername/ecommerce-testing)
-
 🚗 **Delivery Service API Testing**  
-Validated delivery endpoints, analyzed JSON responses, and ensured accurate HTTP status handling.  
-Collaborated in Agile sprints applying Scrum methodology.  
-🔗 [View on GitHub](https://github.com/yourusername/delivery-testing)
+🔗 ([https://github.com/yourusername/delivery-testing](https://github.com/FernandaOcampo/qa-portfolio-fernanda-ocampo))
 
 ---
 
