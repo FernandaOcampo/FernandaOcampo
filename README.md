@@ -68,3 +68,7 @@
 </p>
 
 <p align="center">✨ "Quality means doing it right even when no one is looking." — Henry Ford ✨</p>
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=FernandaOcampo&color=ff66b2)
